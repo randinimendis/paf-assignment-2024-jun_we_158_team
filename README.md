@@ -9,5 +9,10 @@ Please go under edit and edit this file as needed for your project
 ### Member 4 - IT21231100 - Sandaruwan W.M.I.M. (ImalMS)
 
 #### Brief Description of your Solution - 
-
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
+The project assigned to our group is to create a fitness-focused social media network. This website 
+attempts to give users a specific area where they can share exercises, fitness journeys, and healthy living 
+advice. Users can post workout status updates, trade training programme, and even reveal their meal 
+plans—complete with recipes and dietary details—by uploading images and videos that highlight their 
+actions through a smooth interface. Our objective is to enable people to monitor their advancement, 
+motivate others, and establish connections with a community of like-minded fitness lovers, all while 
+emphasizing ease of use and personalization.
