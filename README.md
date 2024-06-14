@@ -1,7 +1,7 @@
 # paf-assignment-2024-jun_we_158_team
 # Project Group - JUN_WE_158_Team
 ### Group Leader - IT21228094 - Mendis A.R.P. (randinimendis)
-### Member 2 -
+### Member 2 - IT21231100 - Sandaruwan W.M.I.M. (ImalMS)
 ### Member 3 - 
 ### Member 4 - 
 
